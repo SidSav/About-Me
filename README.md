@@ -23,10 +23,10 @@ This section entails about my endeavors in data analytics.
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="SiddharthSavani | YouTube" width="22px" src="https://youtube.com/@siddharthsavani?si=I7jDozeio_7eGUhj" />][youtube]
+[<img align="left" alt="JSiddharthsavani | LinkedIn" width="22px" src="https://www.linkedin.com/in/siddharthsavani
+" />][linkedin]
+[<img align="left" alt="Siddharthsavani | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
 
