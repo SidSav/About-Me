@@ -8,7 +8,7 @@ This section entails about my endeavors in data analytics.
 - <b>Hypothesis Testing with Men's and Women's Soccer Matches</b>
   - [DataCamp Project](https://github.com/SidSav/About-Me/blob/main/DataLab%20_%20AI-powered%20data%20notebook%20for%20all%20skill%20levels.pdf)
 - <b>Modeling Car Insurance Claim Outcomes</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Applying Logit model for acertaining best feature](https://www.datacamp.com/datalab/w/b0e92e21-9b08-41b7-a992-5926e3e8ca57/edit) 
 - <b>Customer Analytics: Preparing Data for Modeling</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
