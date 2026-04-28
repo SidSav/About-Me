@@ -6,7 +6,7 @@ This section entails about my endeavors in data analytics.
 <h2>👨‍💻 Data Analystics Projects:</h2>
 
 - <b>Hypothesis Testing with Men's and Women's Soccer Matches</b>
-  - [DataCamp Project](DataLab _ AI-powered data notebook for all skill levels.pdf)
+  - [DataCamp Project](https://github.com/SidSav/About-Me/blob/main/DataLab%20_%20AI-powered%20data%20notebook%20for%20all%20skill%20levels.pdf)
 - <b>Modeling Car Insurance Claim Outcomes</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Customer Analytics: Preparing Data for Modeling</b>
