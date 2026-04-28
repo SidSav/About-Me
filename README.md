@@ -10,16 +10,8 @@ This section entails about my endeavors in data analytics.
 - <b>Modeling Car Insurance Claim Outcomes</b>
   - [Applying Logit model for acertaining best feature](https://www.datacamp.com/datalab/w/b0e92e21-9b08-41b7-a992-5926e3e8ca57/edit) 
 - <b>Customer Analytics: Preparing Data for Modeling</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Efficiently Optimizing Large-Scale Student Data Storage for Faster Job-Seeking Prediction Modeling](https://www.datacamp.com/datalab/w/485ee4f9-2bca-407c-b077-d89ffb33c138/edit)
+ 
 
 <h2>📺 Popular YouTube Videos</h2>
 
