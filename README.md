@@ -24,13 +24,13 @@ This section entails about my endeavors in data analytics.
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="SiddharthSavani | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JSiddharthsavani | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg
+[<img align="left" alt="Siddharthsavani | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg
 " />][linkedin]
 [<img align="left" alt="Siddharthsavani | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
 
-[youtube]: UCqz4Qe_ump_g5xpJch0ML-A
+[youtube]: https://youtube.com/@siddharthsavani?si=G5wPDMEtG2CmqsyG
 [instagram]: https://www.instagram.com/siddharthsavani/
 [linkedin]: https://www.linkedin.com/in/siddharthsavani
 
