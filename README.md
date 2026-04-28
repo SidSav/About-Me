@@ -30,8 +30,10 @@ This section entails about my endeavors in data analytics.
 
 
 
+[youtube]: UCqz4Qe_ump_g5xpJch0ML-A
+[instagram]: https://www.instagram.com/siddharthsavani/
+[linkedin]: https://www.linkedin.com/in/siddharthsavani
 
-[linkedin]: https://linkedin.com/in/joshmadakor
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
